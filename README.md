@@ -28,8 +28,9 @@ describe <br /> <br />
 
 
 ## References:
+* Base understanding of code obtained from UTA Bootcamp Section #19 PWA - Mini-Project
 * 
-* 
+
 ## Development Process:
 1. 
 2. 
