@@ -1,7 +1,7 @@
 # Text Editor
 
 ## Description
-describe <br /> <br />
+A simple text editor that can be installed to your local computer. The application can run offline, and then update/sync once online connection is restored. <br /> <br />
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents:
