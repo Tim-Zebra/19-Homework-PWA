@@ -28,7 +28,7 @@ A simple text editor that can be installed to your local computer. The applicati
 <p align="center"><font size="4"><a href="https://drive.google.com/file/d/1PlX7rhruJsxGkprgESBtd17WHPxvPSEu/view">Video Demo</a></font></p>
 
 ## Link to Deployed Page:
-
+https://timzebra-texteditor.herokuapp.com/
 
 ## References:
 * Base understanding of code obtained from UTA Bootcamp Section #19 PWA - Mini-Project
