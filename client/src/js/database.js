@@ -31,8 +31,12 @@ export const getDb = async () => {
   const request = store.get(1);
   const result = await request;
   console.log('Data retrieved from database: ', result);
-  console.log('This vdsava', store);
-  return result;
+  if(result) {
+    return result.text;
+  } else {
+    return;
+  }
+  
 }
 
 initdb();
